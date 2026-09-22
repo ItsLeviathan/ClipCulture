@@ -1,0 +1,23 @@
+node_modules
+out
+dist
+data
+projects
+exports
+temp
+
+ai/venv/
+node_modules/
+downloads/
+build/
+out/
+dist/
+*.l
+  og
+.env
+__pycache__/
+*.pyc
+
+ai/*
+!ai/workers/
+ai/workers/__pycache__/

@@ -1,0 +1,37 @@
+{
+  "name": "clip-culture",
+  "version": "0.1.0",
+  "description": "Clip Culture: local-first AI video clipping and editing",
+  "main": "out/main/index.js",
+  "private": true,
+  "scripts": {
+    "dev": "electron-vite dev",
+    "build": "electron-vite build",
+    "start": "electron-vite preview",
+    "typecheck": "tsc --noEmit -p tsconfig.json",
+    "test": "esbuild tests/render.test.ts --bundle --platform=node --external:ffmpeg-static --outfile=temp/render.test.cjs --log-level=error && node temp/render.test.cjs",
+    "music": "ai\u000benvScriptspython toolsmake_music.py"
+  },
+  "dependencies": {
+    "better-sqlite3": "^13.0.3",
+    "ffmpeg-static": "^5.3.0",
+    "ffprobe-static": "^3.1.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "devDependencies": {
+    "@electron/rebuild": "^4.2.0",
+    "@types/better-sqlite3": "^9.6.0",
+    "@types/ffprobe-static": "^2.0.3",
+    "@types/node": "^26.6.2",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^5.2.0",
+    "electron": "^44.4.3",
+    "electron-vite": "^5.0.0",
+    "esbuild": "^0.28.2",
+    "typescript": "^7.0.2",
+    "vite": "^7.3.6"
+  },
+  "productName": "Clip Culture"
+}

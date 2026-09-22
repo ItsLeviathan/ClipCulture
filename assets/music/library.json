@@ -1,0 +1,102 @@
+[
+  {
+    "id": "rf-energetic",
+    "title": "Neon Drive",
+    "artist": "Clip Culture Originals",
+    "category": "energetic",
+    "duration": 30.0,
+    "bpm": 128,
+    "license": "CC0 1.0: original synthesized composition, free for any use",
+    "file": "energetic.mp3"
+  },
+  {
+    "id": "rf-chill",
+    "title": "Slow Morning",
+    "artist": "Clip Culture Originals",
+    "category": "chill",
+    "duration": 46.8,
+    "bpm": 82,
+    "license": "CC0 1.0: original synthesized composition, free for any use",
+    "file": "chill.mp3"
+  },
+  {
+    "id": "rf-cinematic",
+    "title": "Skyline",
+    "artist": "Clip Culture Originals",
+    "category": "cinematic",
+    "duration": 42.7,
+    "bpm": 90,
+    "license": "CC0 1.0: original synthesized composition, free for any use",
+    "file": "cinematic.mp3"
+  },
+  {
+    "id": "rf-emotional",
+    "title": "Quiet Hours",
+    "artist": "Clip Culture Originals",
+    "category": "emotional",
+    "duration": 54.9,
+    "bpm": 70,
+    "license": "CC0 1.0: original synthesized composition, free for any use",
+    "file": "emotional.mp3"
+  },
+  {
+    "id": "rf-funny",
+    "title": "Wobble Walk",
+    "artist": "Clip Culture Originals",
+    "category": "funny",
+    "duration": 34.3,
+    "bpm": 112,
+    "license": "CC0 1.0: original synthesized composition, free for any use",
+    "file": "funny.mp3"
+  },
+  {
+    "id": "rf-dramatic",
+    "title": "Iron Tide",
+    "artist": "Clip Culture Originals",
+    "category": "dramatic",
+    "duration": 38.4,
+    "bpm": 100,
+    "license": "CC0 1.0: original synthesized composition, free for any use",
+    "file": "dramatic.mp3"
+  },
+  {
+    "id": "rf-motivational",
+    "title": "Rise Up",
+    "artist": "Clip Culture Originals",
+    "category": "motivational",
+    "duration": 32.5,
+    "bpm": 118,
+    "license": "CC0 1.0: original synthesized composition, free for any use",
+    "file": "motivational.mp3"
+  },
+  {
+    "id": "rf-gaming",
+    "title": "Pixel Rush",
+    "artist": "Clip Culture Originals",
+    "category": "gaming",
+    "duration": 27.4,
+    "bpm": 140,
+    "license": "CC0 1.0: original synthesized composition, free for any use",
+    "file": "gaming.mp3"
+  },
+  {
+    "id": "rf-vlog",
+    "title": "Golden Hour",
+    "artist": "Clip Culture Originals",
+    "category": "vlog",
+    "duration": 38.4,
+    "bpm": 100,
+    "license": "CC0 1.0: original synthesized composition, free for any use",
+    "file": "vlog.mp3"
+  },
+  {
+    "id": "rf-podcast",
+    "title": "Late Night Talk",
+    "artist": "Clip Culture Originals",
+    "category": "podcast",
+    "duration": 50.5,
+    "bpm": 76,
+    "license": "CC0 1.0: original synthesized composition, free for any use",
+    "file": "podcast.mp3"
+  }
+]
