@@ -4,13 +4,14 @@
   "description": "Clip Culture: local-first AI video clipping and editing",
   "main": "out/main/index.js",
   "private": true,
+  "license": "MIT",
   "scripts": {
     "dev": "electron-vite dev",
     "build": "electron-vite build",
     "start": "electron-vite preview",
     "typecheck": "tsc --noEmit -p tsconfig.json",
     "test": "esbuild tests/render.test.ts --bundle --platform=node --external:ffmpeg-static --outfile=temp/render.test.cjs --log-level=error && node temp/render.test.cjs",
-    "music": "ai\u000benvScriptspython toolsmake_music.py"
+    "music": "ai\\venv\\Scripts\\python tools\\make_music.py"
   },
   "dependencies": {
     "better-sqlite3": "^13.0.3",
